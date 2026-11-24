@@ -1,5 +1,5 @@
 """Игра «Змейка» на pygame."""
-from random import choice, randint
+from random import choice
 
 import pygame as pg
 
